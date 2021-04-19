@@ -13,7 +13,7 @@ The name of the icons should be in the same format that you can find on [fontawe
 
 ## Example
 
-```
+```dart
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'DynamicFaIcons.dart';
 
