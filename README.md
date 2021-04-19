@@ -5,13 +5,25 @@ The version of icons is:  ```5.15.3```
 
 
 
-## USAGE
+## Usage
 
 Just copy the class in your app and use the ```getIconFromName``` static method.
 
 The name of the icons should be in the same format that you can find on [fontawesome.com](https://fontawesome.com/) (e.g. ```pizza-slice```)
 
+## Example
 
+```
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'DynamicFaIcons.dart';
 
-Enjoy
-
+class MyWidget extends StatelessWidget {
+  Widget build(BuildContext context) {
+    return IconButton(
+      // Use the FaIcon Widget + DynamicFaIcons class for the IconData
+      icon: FaIcon(DynamicFaIcons.getIconFromName("pizza-slice")), 
+      onPressed: () { print("Pressed"); }
+     );
+  }
+}
+```
