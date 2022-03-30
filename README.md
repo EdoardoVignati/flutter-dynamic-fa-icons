@@ -1,7 +1,7 @@
 # Dynamic FontAwesome icons in Flutter
 Insert FontAwesome icons dynamically in Flutter app when the icons are not known at compile time.
 
-The version of icons is:  ```5.15.3```
+The version of icons is:  ```6.1.0```
 
 
 
@@ -27,3 +27,7 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
+
+## References
+
+- https://pub.dev/packages/font_awesome_flutter
