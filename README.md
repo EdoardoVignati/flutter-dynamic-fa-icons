@@ -4,6 +4,8 @@ Insert FontAwesome icons dynamically in Flutter app when the icons are not known
 
 The version of icons is:  ```6.1.0```
 
+<a href="https://www.buymeacoffee.com/edoardovignati" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"  width="20%"></a>
+
 ## Usage
 
 - Add `dynamic_fa_icons` to `pubspec.yaml`
