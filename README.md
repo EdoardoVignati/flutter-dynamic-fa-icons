@@ -10,7 +10,7 @@ The version of icons is:  ```6.1.0```
 
 - Add `dynamic_fa_icons` to `pubspec.yaml`
 - Add `font_awesome_flutter` to `pubspec.yaml`
-- All icons namse should be in the same format you can find
+- All icons names must be in the same format you can find
   on [fontawesome.com](https://fontawesome.com/) (e.g. `pizza-slice`)
 
 ## Example
