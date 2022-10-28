@@ -33,6 +33,7 @@ class MyWidget extends StatelessWidget {
 }
 ```
 
-## References
+## References and attribution
 
 - https://pub.dev/packages/font_awesome_flutter
+- https://github.com/FortAwesome/Font-Awesome
