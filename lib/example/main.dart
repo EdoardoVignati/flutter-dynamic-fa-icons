@@ -13,9 +13,9 @@ class MyApp extends StatelessWidget {
     return Scaffold(
       body: IconButton(
           // Use the FaIcon Widget + DynamicFaIcons class for the IconData
-          icon: FaIcon(DynamicFaIcons.getIconFromName("pizza-slice")),
+          icon: FaIcon(DynamicFaIcons.getIconFromName('pizza-slice')),
           onPressed: () {
-            print("Pressed");
+            print('Pressed');
           }),
     );
   }
