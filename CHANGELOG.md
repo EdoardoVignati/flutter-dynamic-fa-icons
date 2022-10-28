@@ -1,3 +1,3 @@
-# 1.0.0+1
+# 1.1.0+2
 
-First release of FA v6.1.0
+FontAwesome icons 6.2.0
