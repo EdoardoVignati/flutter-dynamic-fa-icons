@@ -1,5 +1,5 @@
 name: dynamic_fa_icons_example
-description: Usage example of dynamic_fa_icons plugin
+description: Usage example of dynamic_fa_icons package
 publish_to: none
 
 environment:
@@ -8,15 +8,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_web_plugins:
-    sdk: flutter
   dynamic_fa_icons:
     # When depending on this package from a real application you should use:
     #   dynamic_fa_icons: ^x.y.z+n
     # See https://dart.dev/tools/pub/dependencies#version-constraints
     # The example app is bundled with the package so we use a path dependency on
     # the parent directory to use the current package version.
-    path: ../../
+    path: ../
 
 flutter:
   uses-material-design: true
