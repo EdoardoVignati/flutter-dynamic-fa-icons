@@ -8,7 +8,7 @@ The version of icons is:  ```6.4.0```
 
 ## Usage
 
-- Add `dynamic_fa_icons` to `pubspec.yaml`
+- Add `dynamic_fa_icons` and `font_awesome_flutter` to `pubspec.yaml`
 - All icons names must be in the same format you can find
   on [fontawesome.com](https://fontawesome.com/) (e.g. `pizza-slice`)
 
@@ -16,6 +16,8 @@ The version of icons is:  ```6.4.0```
 
 ```dart
 import 'package:dynamic_fa_icons/dynamic_fa_icons.dart';
+import 'package:flutter_inappwebview/flutter_inappwebview.dart';
+
 
 class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {

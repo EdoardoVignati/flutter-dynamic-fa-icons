@@ -1,4 +1,4 @@
-## 1.2.0+3
+## 1.2.0+4
 * Package upgrade to FA 6.4.0 collection and pub.dev FA package ^10.5.0
 
 
