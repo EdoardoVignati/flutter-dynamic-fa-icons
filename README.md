@@ -15,8 +15,8 @@ The version of icons is:  ```6.4.0```
 ## Example
 
 ```dart
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:dynamic_fa_icons/dynamic_fa_icons.dart';
-import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 
 
 class MyWidget extends StatelessWidget {
