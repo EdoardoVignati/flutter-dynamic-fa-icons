@@ -5,12 +5,12 @@ homepage: https://github.com/EdoardoVignati/flutter-dynamic-fa-icons
 documentation: https://github.com/EdoardoVignati/flutter-dynamic-fa-icons
 
 environment:
-  sdk: '>=2.15.0 <3.0.0'
+  sdk: '>=3.1.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  font_awesome_flutter: 10.5.0
+  font_awesome_flutter: ^10.5.0
 
 dev_dependencies:
   flutter_test:
