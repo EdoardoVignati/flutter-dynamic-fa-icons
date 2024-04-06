@@ -1,5 +1,5 @@
 name: dynamic_fa_icons
-description: Original package to insert FontAwesome icons dynamically in a Flutter app when the icons are not known at compile time.
+description: Original package to insert FontAwesome icons by name in a Flutter app, for example when the icons are not known at compile time.
 version: 1.3.0+6
 homepage: https://github.com/EdoardoVignati/flutter-dynamic-fa-icons
 documentation: https://github.com/EdoardoVignati/flutter-dynamic-fa-icons
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  font_awesome_flutter: 10.7.0
+  font_awesome_flutter: ^10.7.0
 
 dev_dependencies:
   flutter_test:
